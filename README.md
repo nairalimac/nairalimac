@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**nairalimac/nairalimac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I`m Naira
 
-Here are some ideas to get you started:
+| UI/UX Designer | Product Designer | Front End. | System Analyst |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on UI Designer and start in Front-end
+- 💻 I’m currently learning Javascript
+- 💼 Linkedin: https://www.linkedin.com/in/nairalimac/
+- 🎨 Portfolio: https://www.behance.net/nairacunha1
+- ✉️ Contact-me: nairalimac.uiux@gmail.com
+- 😄 Pronouns: She/Her
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Nah-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Nah-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Nah-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Nah-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Nah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+ </div>
+ 
+ 
+ 
