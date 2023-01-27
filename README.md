@@ -2,7 +2,7 @@
 
 😄 I`m Naira
 
-  | UI/UX Designer | Product Designer | Front End. | System Analyst |
+  | UI Designer | Front End. | System Analyst |
 
 - 🔭 I’m currently working on UI Designer and start in Front-end
 - 💻 I’m currently learning Javascript
