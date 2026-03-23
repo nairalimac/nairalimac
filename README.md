@@ -1,13 +1,13 @@
 ### Hello there!
 
-😄 I`m Naira
+😄 I'm Naira
 
   | UI Designer | Front End. | System Analyst |
 
 - 🔭 I’m currently working on UI Designer and start in Front-end
 - 💻 I’m currently learning Javascript
 - 💼 Linkedin: https://www.linkedin.com/in/nairalimac/
-- 🎨 Portfolio: https://www.behance.net/nairacunha1
+- 🎨 Portfolio: https://www.behance.net/nairalimac
 - ✉️ Contact-me: nairalimac.uiux@gmail.com
 
 
