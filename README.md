@@ -2,9 +2,8 @@
 
 😄 I'm Naira
 
-  | UX/UI Designer | Product Designer | End-to-end |
+UX/UI Designer | End-to-End Digital Products | Product Designer | Figma
 
-- 🔭 I’m currently working on UI Designer and start in Front-end
 - 💻 I’m currently learning Framer, Webflow
 - 💼 Linkedin: https://www.linkedin.com/in/nairalimac/
 - 🎨 Portfolio: https://www.behance.net/nairalimac
